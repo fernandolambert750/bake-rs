@@ -1,0 +1,5 @@
+[package]
+name = "bake-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Simple and easy to use "script runner" written in Rust."
