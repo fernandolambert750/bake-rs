@@ -11,3 +11,4 @@ description = "Simple and easy to use "script runner" written in Rust."
 # guard against empty input
 # drop an unused branch
 # clarify the control flow
+# drop an unused branch
